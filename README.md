@@ -73,7 +73,8 @@ Testing
 
 Manual testing was performed using Postman.
 Test cases cover normal flow, validation failures, deduplication, updates, and statistics scenarios.
-All test cases from TC-01 to TC-08 passed successfully.
+All test cases from TC-01 to TC-08 passed successfully. 
+You can see all test case in TeseCase.pdf in above pdf file
 
 How to Run the Project
 
